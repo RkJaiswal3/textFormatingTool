@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextFormating_Tool/static/css/main.f855e6bc.css",
+    "main.js": "/TextFormating_Tool/static/js/main.f16d6a65.js",
+    "static/js/453.96da2159.chunk.js": "/TextFormating_Tool/static/js/453.96da2159.chunk.js",
+    "index.html": "/TextFormating_Tool/index.html",
+    "main.f855e6bc.css.map": "/TextFormating_Tool/static/css/main.f855e6bc.css.map",
+    "main.f16d6a65.js.map": "/TextFormating_Tool/static/js/main.f16d6a65.js.map",
+    "453.96da2159.chunk.js.map": "/TextFormating_Tool/static/js/453.96da2159.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.f16d6a65.js"
+  ]
+}

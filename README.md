@@ -69,5 +69,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-the link of the Github page is https://RkJaiswal3.github.io/TextFormating_Tool
+the link of the Github page is https://rkjaiswal3.github.io/textFormatingTool/
 
